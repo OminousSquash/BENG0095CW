@@ -1,0 +1,35 @@
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# macOS folder attributes
+Icon?
+._*
+
+# Python cache (if you ever add Python scripts)
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pdb
+
+# Virtual environments
+env/
+venv/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.swp
+
+# VSCode settings
+.vscode/
+
+# JetBrains IDEs
+.idea/
+
+# Backup files
+*~
